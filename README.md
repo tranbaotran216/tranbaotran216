@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently student at University of Information & Technology (VN), faculty of Computer Science..<br>Advanced C++ and learning Python.<br>My interests include playing video games and illustrating.
+I'm currently a student at University of Information & Technology (VN), faculty of Computer Science..<br>I'm skillful in C++ and advanced in Python.<br>My interests include playing video games and illustrating.
 
 
 ## 🌐 Socials:
